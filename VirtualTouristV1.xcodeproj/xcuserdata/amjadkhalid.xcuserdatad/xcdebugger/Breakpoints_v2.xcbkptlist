@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VirtualTouristV1/ViewControllers/MapViewController.swift"
+            timestampString = "570934341.974674"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "MapViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VirtualTouristV1/ViewControllers/MapViewController.swift"
+            timestampString = "570934341.97491"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "207"
+            endingLineNumber = "207"
+            landmarkName = "controller(_:didChange:at:for:newIndexPath:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VirtualTouristV1/ViewControllers/MapViewController.swift"
+            timestampString = "570934341.97501"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "209"
+            endingLineNumber = "209"
+            landmarkName = "controller(_:didChange:at:for:newIndexPath:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VirtualTouristV1/ViewControllers/getFlickerCollectionViewCell.swift"
+            timestampString = "570919754.019755"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "getFlickerCollectionViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VirtualTouristV1.getFlickerCollectionViewCell.flickerPhoto.getter : weak Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "VirtualTouristV1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amjadkhalid/Documents/VirtualTouristV1/VirtualTouristV1/ViewControllers/getFlickerCollectionViewCell.swift"
+                  timestampString = "570795151.379445"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VirtualTouristV1.getFlickerCollectionViewCell.flickerPhoto.setter : weak Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "VirtualTouristV1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amjadkhalid/Documents/VirtualTouristV1/VirtualTouristV1/ViewControllers/getFlickerCollectionViewCell.swift"
+                  timestampString = "570795151.385985"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VirtualTouristV1.getFlickerCollectionViewCell.init(frame: __C.CGRect) -&gt; VirtualTouristV1.getFlickerCollectionViewCell"
+                  moduleName = "VirtualTouristV1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amjadkhalid/Documents/VirtualTouristV1/VirtualTouristV1/ViewControllers/getFlickerCollectionViewCell.swift"
+                  timestampString = "570795151.387756"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "45">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VirtualTouristV1.getFlickerCollectionViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;VirtualTouristV1.getFlickerCollectionViewCell&gt;"
+                  moduleName = "VirtualTouristV1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amjadkhalid/Documents/VirtualTouristV1/VirtualTouristV1/ViewControllers/getFlickerCollectionViewCell.swift"
+                  timestampString = "570795151.389374"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
